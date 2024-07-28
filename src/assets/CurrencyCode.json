@@ -1,0 +1,126 @@
+[
+    {
+        "country": "Australian ",
+        "currency_code": "AUD"
+    },
+    {
+        "country": "Bulgarian ",
+        "currency_code": "BGN"
+    },
+    {
+        "country": "Brazilian",
+        "currency_code": "BRL"
+    },
+    {
+        "country": "Canadian ",
+        "currency_code": "CAD"
+    },
+    {
+        "country": "Swiss ",
+        "currency_code": "CHF"
+    },
+    {
+        "country": "Chinese ",
+        "currency_code": "CNY"
+    },
+    {
+        "country": "Czech ",
+        "currency_code": "CZK"
+    },
+    {
+        "country": "Danish ",
+        "currency_code": "DKK"
+    },
+    {
+        "country": "Euro",
+        "currency_code": "EUR"
+    },
+    {
+        "country": "British ",
+        "currency_code": "GBP"
+    },
+    {
+        "country": "Hong Kong ",
+        "currency_code": "HKD"
+    },
+    {
+        "country": "Hungarian ",
+        "currency_code": "HUF"
+    },
+    {
+        "country": "Indonesian ",
+        "currency_code": "IDR"
+    },
+    {
+        "country": "Israeli ",
+        "currency_code": "ILS"
+    },
+    {
+        "country": "Indian ",
+        "currency_code": "INR"
+    },
+    {
+        "country": "Icelandic ",
+        "currency_code": "ISK"
+    },
+    {
+        "country": "Japanese ",
+        "currency_code": "JPY"
+    },
+    {
+        "country": "South Korea",
+        "currency_code": "KRW"
+    },
+    {
+        "country": "Mexican ",
+        "currency_code": "MXN"
+    },
+    {
+        "country": "Malaysian ",
+        "currency_code": "MYR"
+    },
+    {
+        "country": "Norwegian ",
+        "currency_code": "NOK"
+    },
+    {
+        "country": "New Zealand ",
+        "currency_code": "NZD"
+    },
+    {
+        "country": "Philippine",
+        "currency_code": "PHP"
+    },
+    {
+        "country": "Polish ",
+        "currency_code": "PLN"
+    },
+    {
+        "country": "Romanian ",
+        "currency_code": "RON"
+    },
+    {
+        "country": "Swedish ",
+        "currency_code": "SEK"
+    },
+    {
+        "country": "Singapore ",
+        "currency_code": "SGD"
+    },
+    {
+        "country": "Thai ",
+        "currency_code": "THB"
+    },
+    {
+        "country": "Turkish ",
+        "currency_code": "TRY"
+    },
+    {
+        "country": "United States ",
+        "currency_code": "USD"
+    },
+    {
+        "country": "South African ",
+        "currency_code": "ZAR"
+    }
+]
